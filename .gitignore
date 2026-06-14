@@ -1,0 +1,11 @@
+# PyInstaller Folders
+build/
+dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Mac System Files
+.DS_Store
