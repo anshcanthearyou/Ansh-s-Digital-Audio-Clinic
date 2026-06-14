@@ -1,6 +1,6 @@
 # Ansh's Digital Audio Clinic
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ## About The Project
 For my final project, I built "Ansh's Digital Audio Clinic," an interactive GUI hearing test. This project is deeply personal to me because I am half deaf myself. I know firsthand how gradual and sneaky hearing loss can be, so I wanted to build something that could help people detect early warning signs before they get worse. 
